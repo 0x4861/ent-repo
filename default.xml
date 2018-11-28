@@ -3,5 +3,12 @@
     <remote name="origin" fetch="ssh://git@github.com/" />
     <default revision="master" remote="origin" sync-j="4" />
     <project path="loopchain" name="icon-project/loopchain.git" remote="origin"/>
+    <project path="icon-service" name="icon-project/icon-service.git" remote="origin"/>
+    <project path="icon-rpc-server" name="icon-project/icon-rpc-server.git" remote="origin"/>
+    <project path="icon-commons" name="icon-project/icon-commons.git" remote="origin"/>
+    <project path="earlgrey" name="icon-project/earlgrey.git" remote="origin"/>
+    <project path="icon-cli-tool" name="icon-project/icon_cli_tool.git" remote="origin"/>
+    <project path="governance" name="icon-project/governance.git" remote="origin"/>
+    <project path="sdk/android" name="icon-project/iconex_android.git" remote="origin"/>
 </manifest>
 
