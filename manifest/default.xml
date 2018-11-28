@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>                                                                       
-    <remote                                                                      
-        name="origin"
-        fetch="ssh://git@github.com/"/>
-    <remote
-        name="loopchain"
-        fetch="https://github.com/icon-project/"/>
-    <default revision="master" 
-             remote="origin"
-             sync-j="4"/>
-                                                                                 
-    <project path="bash" name="twityhwan/bash"/>
-    <project path="c" name="twityhwan/C_Practice"/>
-    <project path="html5" name="twityhwan/html5" remote="html5"/>
-</manifest> 
-
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com/" />
+    <default revision="master" remote="origin" sync-j="4" />
+    <project path="loopchain" name="icon-project/loopchain.git" remote="origin"/>
+</manifest>
 
