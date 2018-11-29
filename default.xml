@@ -9,6 +9,9 @@
     <project path="earlgrey" name="icon-project/earlgrey.git" remote="origin"/>
     <project path="icon-cli-tool" name="icon-project/icon_cli_tool.git" remote="origin"/>
     <project path="governance" name="icon-project/governance.git" remote="origin"/>
+    <project path="t-bears" name="icon-project/t-bears.git" remote="origin"/>
+    <project path="samples" name="icon-project/samples.git" remote="origin"/>
+    <project path="score-guide" name="icon-project/score-guide.git" remote="origin"/>
     <project path="sdk/android" name="icon-project/iconex_android.git" remote="origin"/>
 </manifest>
 
